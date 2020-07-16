@@ -19,16 +19,16 @@ I am working in the area of mathematical statistics. My specific field of resear
 
 ## Research Interests
 
-- Statistics of stochastic processes
-- Empirical process theory
-- U-Empirical process
+- Statistics of Stochastic Processes
+- Empirical Process Theory
+- U-Empirical Process
 - Bootstrap
-- Strong invariance principle
-- Semi/Nonparametric statistical theory
-- Functional data analysis 
-- Multivariate analysis: Copula
-- High dimensional probability
-- Limit theorems for dependent random variables
+- Strong Invariance Principle
+- Semi/Nonparametric Statistical Theory
+- Functional Data Analysis 
+- Multivariate Analysis: Copula
+- High-Dimensional Probability
+- Limit Theorems for Dependent Random Variables
 
 
 ## Email
