@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
+title: "About me"
+excerpt: " - LMAC"
 author_profile: true
 redirect_from: 
   - /about/
@@ -32,8 +32,8 @@ redirect_from:
 
  `salim.bouzebda-nospam@utc.fr`
 
-## Address 
-Bureau GI 118
+## Office 
+Bureau GI 118<br>
 Laboratoire LMAC EA 2222 <br>
 Université de Technologie de Compiègne<br>
 CS 60319 - 57 avenue de Landshut<br>
