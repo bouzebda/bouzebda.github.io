@@ -8,10 +8,13 @@ redirect_from:
   - /about.html
 ---
 
+I am working in the area of mathematical statistics. My specific field of research is the mathematical theory of statistical inference, stochastic processes and their applications.
+
 ## Professeur des Universités
 
-- Laboratoire LMAC 
-- TEAM S2 - "Systèmes Stochastiques", deputy director of LMAC
+- Laboratoire de Mathématiques Appliquées de Compiègne (LMAC)
+- TEAM S2 - "Systèmes Stochastiques"
+- Deputy director of LMAC
 
 
 ## Research Interests
