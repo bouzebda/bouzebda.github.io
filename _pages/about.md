@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "About"
 excerpt: " - LMAC"
 author_profile: true
 redirect_from: 
@@ -42,4 +42,4 @@ Université de Technologie de Compiègne<br>
 CS 60319 - 57 avenue de Landshut<br>
 COMPIEGNE CEDEX, 60203 FRANCE
 
-[<img src="/images/logo_utc.jpg" width="130" height="100" border="0" align="left">]()
+[<img src="/images/logo_utc.jpg" width="200" height="150" border="0" align="left">]()
