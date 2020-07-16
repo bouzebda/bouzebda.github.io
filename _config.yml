@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Salim Bouzebda"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Salim Bouzebda"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://bouzebda.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "bouzebda/bouzebda.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Salim Bouzebda"
+  avatar           : "Salim_Bouzebda.jpg"
+  bio              : "Professeur des Universités,<br> Deputy director of LMAC, <br>Université de Technologie de Compiègne"
+  location         : "Compiègne"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           :
+  googlescholar    :
+  email            :  salim.bouzebda-nospam@utc.fr
+  researchgate     :  "https://www.researchgate.net/profile/Salim_Bouzebda"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "bouzebda"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/salim-bouzebda-b3333599/?originalSubdomain=fr"
+  # orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  # stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "Salim_Bouzebda"
   vine             :
   weibo            :
   xing             :
@@ -200,7 +200,7 @@ defaults:
       author_profile: true
       read_time: true
       comments: true
-      share: true
+      # share: true
       related: true
   # _pages
   - scope:
@@ -216,7 +216,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      # share: true
       comments: true
   # _publications
   - scope:
@@ -234,7 +234,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      # share: true
       comment: true
   # _talks
   - scope:
@@ -243,7 +243,16 @@ defaults:
     values:
       layout: talk
       author_profile: true
-      share: true
+      # share: true
+
+  # _students
+  - scope:
+      path: ""
+      type: students
+    values:
+      layout: single
+      author_profile: true
+      # share: true
 
 # Sass/SCSS
 sass:
