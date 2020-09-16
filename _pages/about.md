@@ -15,7 +15,8 @@ I am working in the area of mathematical statistics. My specific field of resear
 - Laboratoire de Mathématiques Appliquées de Compiègne (LMAC)
 - TEAM S2 - "Systèmes Stochastiques"
 - Deputy Director of LMAC
-
+- Alliance Sorbonne Université,
+- Université de Technologie de Compiègne,
 
 ## Research Interests
 
@@ -41,14 +42,14 @@ I am working in the area of mathematical statistics. My specific field of resear
  `salim.bouzebda@utc.fr`
 
 ## Phone
-Tel : (+33) 3 44 23 44 69 <br>
-Fax : (+33) 3 44 23 44 77
+- Tel : (+33) 3 44 23 44 69 <br>
+- Fax : (+33) 3 44 23 44 77
 
 ## Office 
-Bureau GI 118<br>
-Laboratoire LMAC EA 2222 <br>
-Université de Technologie de Compiègne<br>
-CS 60319 - 57 avenue de Landshut<br>
-COMPIEGNE CEDEX, 60203 FRANCE
+- Bâtiment Plaise Pascal <br>
+- Département Génie Informatique (GI) <br>
+- Bureau GI 118<br>
+- 57 avenue de Landshut<br>
+- COMPIEGNE CEDEX, 60203 FRANCE
 
 [<img src="/images/logo_utc.jpg" width="200" height="150" border="0" align="left">]()
