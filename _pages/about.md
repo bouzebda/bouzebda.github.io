@@ -41,7 +41,7 @@ I am working in the area of mathematical statistics. My specific field of resear
  `salim.bouzebda@utc.fr`
 
 ## Phone
-Tel. : (+33) 3 44 23 44 69
+Tel. : (+33) 3 44 23 44 69 <br>
 Fax : (+33) 3 44 23 44 77
 
 ## Office 
