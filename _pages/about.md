@@ -14,7 +14,7 @@ I am working in the area of mathematical statistics. My specific field of resear
 
 - Laboratoire de Mathématiques Appliquées de Compiègne (LMAC)
 - TEAM S2 - "Systèmes Stochastiques"
-- Deputy director of LMAC
+- Deputy Director of LMAC
 
 
 ## Research Interests
@@ -38,7 +38,11 @@ I am working in the area of mathematical statistics. My specific field of resear
 
 ## Email
 
- `salim.bouzebda-nospam@utc.fr`
+ `salim.bouzebda@utc.fr`
+
+## Phone
+Tel. : (+33) 3 44 23 44 69
+Fax : (+33) 3 44 23 44 77
 
 ## Office 
 Bureau GI 118<br>
