@@ -28,17 +28,17 @@ PhD Students
  
 - Soumaya Allaoui (2018- )
     - co-direction with Xiequan Fan, Huazhong University of Science and Technology
+   
+- Han Guo (2018- )
+    - title: Développement d'un Dialogue Essai - Calcul dans un Cadre Probabiliste pour la Validation de Châssis Automobile
+    - co-direction -with Nikolaos Limnios, Frédéric Druesne, Pierre Feissel
+    - UTC 
 
 -  Panagiota Tsamtsikari (2018-)
     - title: On Discrete Multivariate Time Series
     - co-direction with  Nikolaos Limnios and Karlis Dimitris
     - UTC
     
-- Han Guo (2018- )
-    - title: Développement d'un Dialogue Essai - Calcul dans un Cadre Probabiliste pour la Validation de Châssis Automobile
-    - co-direction -with Nikolaos Limnios, Frédéric Druesne, Pierre Feissel
-    - UTC 
-
 - Youssouf Souddi, (2017- )
     - title: Sur l'Estimation Nonparamétrique pour les Processus Empiriques Conditionnels pour des Covariables Fonctionnelles
     - co-direction with Fethi Madani, University of Saida, Algeria
