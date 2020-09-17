@@ -2,7 +2,10 @@
 title: "The Consistency and Asymptotic Normality of the Kernel type Expectile Regression Estimator for Functional Data"
 collection: publications
 permalink: /publication/2020-09-01-Mohamedi-Bouzebda-Laksaci
-excerpt: ' '
+excerpt: 'The aim of this paper is to nonparametrically estimate the expectile regression in the case of a functional predictor and a scalar
+response. More precisely, we construct a kernel-type estimator of the expectile regression function. The main contribution of
+this study is the establishment of the asymptotic properties of the expectile regression estimator. Precisely, we establish the
+almost complete convergence with rate. [**Read more**](https://bouzebda.github.io/publication/2020-09-01-Mohamedi-Bouzebda-Laksaci)'
 date: 2020-09-01
 venue: 'J. Multivariate Anal.'
 authors: 'M. Mohamedi, S. Bouzebda et A. Laksaci'
