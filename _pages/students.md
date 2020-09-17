@@ -30,13 +30,13 @@ PhD Students
     - co-direction with Xiequan Fan, Huazhong University of Science and Technology
    
 - Han Guo (2018- )
-    - title: Développement d'un Dialogue Essai - Calcul dans un Cadre Probabiliste pour la Validation de Châssis Automobile
-    - co-direction -with Nikolaos Limnios, Frédéric Druesne, Pierre Feissel
+    - title: Développement d'un Dialogue Essai-Calcul dans un Cadre Probabiliste pour la Validation de Châssis Automobile
+    - co-direction with Nikolaos Limnios, Frédéric Druesne, Pierre Feissel
     - UTC 
 
 -  Panagiota Tsamtsikari (2018-)
     - title: On Discrete Multivariate Time Series
-    - co-direction with  Nikolaos Limnios and Karlis Dimitris
+    - co-direction with Nikolaos Limnios and Karlis Dimitris
     - UTC
     
 - Youssouf Souddi (2017- )
