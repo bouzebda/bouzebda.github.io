@@ -20,3 +20,4 @@ The case of functional predictor is of particular interest and challenge, both f
 [<img src=" /images/PDF.png" width="25" height="25">Download paper here](https://www.sciencedirect.com/science/article/pii/S0047259X20302542)
 
 
+
