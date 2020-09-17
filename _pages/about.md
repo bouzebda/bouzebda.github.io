@@ -15,8 +15,8 @@ I am working in the area of mathematical statistics. My specific field of resear
 - Laboratoire de Mathématiques Appliquées de Compiègne (LMAC)
 - TEAM S2 - "Systèmes Stochastiques"
 - Deputy Director of LMAC
-- Alliance Sorbonne Université,
-- Université de Technologie de Compiègne,
+- Alliance Sorbonne Université
+- Université de Technologie de Compiègne (UTC)
 
 ## Research Interests
 

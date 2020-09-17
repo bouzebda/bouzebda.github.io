@@ -39,7 +39,7 @@ PhD Students
     - co-direction with  Nikolaos Limnios and Karlis Dimitris
     - UTC
     
-- Youssouf Souddi, (2017- )
+- Youssouf Souddi (2017- )
     - title: Sur l'Estimation Nonparamétrique pour les Processus Empiriques Conditionnels pour des Covariables Fonctionnelles
     - co-direction with Fethi Madani, University of Saida, Algeria
 
@@ -47,13 +47,12 @@ Alumni
 ======
 
 - Boutheina Nemouchi (2017-2020)
-    - title: Contributions à la Théorie  des processus empirique et les `U`-processus Conditionnels
+    - title: Contributions à la Théorie  des Processus Empiriques et les `U-`Processus Conditionnels
     - UTC 
 
 - Khalid Chokri (2014-2017)
     - title: Étude et Modélisation Mathématique de Méthanisation et Production des Engrais en vue d'optimiser leurs Rendements
     - codirection with Nikolaos Limnios
-    - Defended in April 2017
     - Projet VALODIM financé par BPI France
     
 - Thouria El-hadjali (2017-2020)
@@ -65,7 +64,6 @@ Alumni
   
 -  Chrysanthi Papamichail (2012-2016)
     - Estimation des Systèmes Dynamiques avec Applications en Mécanique
-    - Defended in June 2016
     - co-direction with Nikolaos Limnios
     - UTC
 
