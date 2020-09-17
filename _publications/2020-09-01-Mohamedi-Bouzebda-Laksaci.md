@@ -20,3 +20,7 @@ of particular interest and challenge, both from theoretical as well as practical
 of functional expectile regression in NFDA with a particular focus on the supervised classification, prediction and financial risk
 analysis problems. Finally, the finite-sample performances of the model and the estimation method are illustrated using the analysis
 of simulated data and real data coming from the financial risk analysis.
+
+[<img src=" /images/PDF.png" width="25" height="25">Download paper here](https://www.sciencedirect.com/science/article/pii/S0047259X20302542)
+
+
