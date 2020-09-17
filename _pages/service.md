@@ -1,12 +1,13 @@
 ---
 layout: archive
-title: "service"
+title: "Service"
 permalink: /service/
 author_profile: true
 ---
 
 {% include base_path %}
 
-{% for post in site.service reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+## Associate Editor for 
+- Dependence Modeling: 2013 - 2018
+- The Open Mathematics, Statistics and Probability Journal: 2019 —
+- Applied Mathematics : Deterministic and Stochastic: 2019 —
