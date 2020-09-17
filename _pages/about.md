@@ -31,12 +31,6 @@ I am working in the area of mathematical statistics. My specific field of resear
 - High-Dimensional Probability
 - Limit Theorems for Dependent Random Variables
 
-
-## Associate Editor for 
-- Dependence Modeling: 2013 - 2018
-- The Open Mathematics, Statistics and Probability Journal: 2019 —
-- Applied Mathematics : Deterministic and Stochastic: 2019 —
-
 ## Email
 
  `salim.bouzebda@utc.fr`
