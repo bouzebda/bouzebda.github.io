@@ -10,7 +10,7 @@ authors: 'S. Bouzebda and S. Didi'
 ### S. Bouzebda and S. Didi
 
 
-$\mathbf{X}_{\textrm{t}},\mathbf{Y}_{\textrm{t}})_{\textrm{t} \geq 0}$
+$\mathbf{X}_{t},\mathbf{Y}_{t})_{t \geq 0}$
 
 $\mathbb{R}^{d}\times\mathbb{R}^{q}$ 
 
