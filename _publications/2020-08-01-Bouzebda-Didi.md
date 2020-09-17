@@ -10,6 +10,8 @@ authors: 'S. Bouzebda and S. Didi'
 ### S. Bouzebda and S. Didi
 
 
+$(\mathbf{X}_{{\rm t}},\mathbf{Y} {\rm t})_{\rm t \geq 0}$
+
 $(\mathbf{X}_{\rm t},\mathbf{Y}_{\rm t})_{\rm t \geq 0}$
 
 $\mathbb{R}^{d}\times\mathbb{R}^{q}$ 
