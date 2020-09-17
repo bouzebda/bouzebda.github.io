@@ -3,8 +3,11 @@ main:
   - title: "Papers"
     url: /publications/
 
-  - title: "Pipeplines"
-    url: /publications/preprints/
+  - title: "Preprints"
+    url: /preprints/
+
+  - title: "Service"
+    url: /service/
 
   # - title: "Talks"
     # url: /talks/
@@ -22,7 +25,7 @@ main:
     # url: /year-archive/
     
   - title: "CV"
-      url: /cv/
+    url: /cv/
     
   # - title: "Guide"
     # url: /markdown/

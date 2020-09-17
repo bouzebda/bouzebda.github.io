@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Salim Bouzebda"
   avatar           : "Salim_Bouzebda.jpg"
-  bio              : "Professeur des Universités,<br> Deputy director of LMAC, <br>Univ. of Technology of Compiègne"
+  bio              : "Professor,<br> Deputy director of LMAC, <br>Univ. of Technology of Compiègne"
   location         : "Compiègne, France"
   employer         : "Univ. of Technology of Compiègne"
   pubmed           :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "bouzebda"
+  # github           : "bouzebda"
   google_plus      :
   keybase          :
   instagram        :
@@ -230,6 +230,14 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _service
+  - scope:
+      path: ""
+      type: service
+    values:
+      layout: single
+      author_profile: true
+      # share: true
   # _portfolio
   - scope:
       path: ""
@@ -247,7 +255,6 @@ defaults:
       layout: talk
       author_profile: true
       # share: true
-
   # _students
   - scope:
       path: ""
