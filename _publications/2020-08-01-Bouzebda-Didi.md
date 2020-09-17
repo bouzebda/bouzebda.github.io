@@ -10,8 +10,9 @@ authors: 'S. Bouzebda and S. Didi'
 ### S. Bouzebda and S. Didi
 
 
-In the present paper, we consider  the nonparametric regression model with random design based on $(\mathbf{X}_{\rm t},\mathbf{Y}_{\rm t})_{\rm t \geq 0}$  a
-$\mathbb{R}^{d}\times\mathbb{R}^{q}$-valued strictly stationary and
+In the present paper, we consider  the nonparametric regression model with random design based on $(\mathbf{X}_{\rm t},\mathbf{Y}_{\rm t})_{\rm t \geq 0}$
+ 
+ a $\mathbb{R}^{d}\times\mathbb{R}^{q}$-valued strictly stationary and
 
 
 
