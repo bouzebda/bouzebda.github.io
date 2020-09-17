@@ -2,10 +2,7 @@
 title: "Some Asymptotic Properties of Kernel Regression Estimators of the Mode for Stationnary and Ergodic Continuous Time Processes"
 collection: publications
 permalink: /publication/2020-08-01-Bouzebda-Didi
-excerpt: 'In the present paper, we consider  the nonparametric regression model with random design based on 
-<img src="https://latex.codecogs.com/svg.latex?(\mathbf{X}_{\rm t},\mathbf{ Y}_{\rm t})_{{\rm t}\geq 0}"/> an <img src="https://latex.codecogs.com/svg.latex?\mathbb{R}^{d}\times\mathbb{R}^{q}"/>-valued strictly stationary and
-ergodic continuous time process, where the regression function is given by <img src="https://latex.codecogs.com/svg.latex?m(\mathbf{x},\psi) = \mathbb{E}(\psi(\mathbf{ Y}) \mid \mathbf{ X} = \mathbf{ x}))"/>,  for a measurable function
-$\psi : \mathbb{R}^{q} \rightarrow \mathbb{R}$. [**Read more**](https://bouzebda.github.io/publication/2020-08-01-Bouzebda-Didi)'
+excerpt: 'In the present paper, we consider  the nonparametric regression model with random design based on <img src="https://latex.codecogs.com/svg.latex?(\mathbf{X}_{\rm t},\mathbf{ Y}_{\rm t})_{{\rm t}\geq 0}"/> an <img src="https://latex.codecogs.com/svg.latex?\mathbb{R}^{d}\times\mathbb{R}^{q}"/>-valued strictly stationary and ergodic continuous time process, where the regression function is given by <img src="https://latex.codecogs.com/svg.latex?m(\mathbf{x},\psi) = \mathbb{E}(\psi(\mathbf{ Y}) \mid \mathbf{ X} = \mathbf{ x}))"/>,  for a measurable function $\psi : \mathbb{R}^{q} \rightarrow \mathbb{R}$. [**Read more**](https://bouzebda.github.io/publication/2020-08-01-Bouzebda-Didi)'
 date: 2020-08-01
 venue: 'Revista Matemática Complutense '
 authors: 'S. Bouzebda and S. Didi'
