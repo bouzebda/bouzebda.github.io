@@ -10,15 +10,17 @@ authors: 'S. Bouzebda and S. Didi'
 ### S. Bouzebda and S. Didi
 
 
-$(\mathbf{X}_{{\rm t}},\mathbf{Y} {\rm t})_{\rm t \geq 0}$
+$(\mathbf{ X}_{\rm t},\mathbf{ Y} {\rm t})_{\rm t \geq 0}$
 
-$(\mathbf{X}_{\rm t},\mathbf{Y}_{\rm t})_{\rm t \geq 0}$
 
 $\mathbb{R}^{d}\times\mathbb{R}^{q}$ 
 
 $\mathbb{R}^{d}_{j}\times\mathbb{R}^{q}$ 
 
 $\mathbf{R}^{d}_{j}\times\mathbf{R}^{q}$ 
+
+$\widehat{m}_{\rm T}(\cdot, \psi)$
+
 
 In the present paper, we consider  the nonparametric regression model with random design based on 
 <img src="https://latex.codecogs.com/svg.latex?(\mathbf{X}_{\rm t},\mathbf{Y}_{\rm t})_{\rm t \geq 0}"/> an <img src="https://latex.codecogs.com/svg.latex?\mathbb{R}^{d}\times\mathbb{R}^{q}"/>-valued strictly stationary and
