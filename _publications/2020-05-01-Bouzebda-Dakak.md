@@ -5,7 +5,7 @@ permalink: /publication/2020-05-01-Bouzebda-Dakak
 excerpt: 'The purpose of this note is to provide an approximation for the generalized bootstrapped empirical process achieving the rate in [40]. 
 The proof is based on the same arguments used in [37]. 
 As a consequence, we establish an approximation of the bootstrapped kernel distribution estimation. [**Read more**](https://bouzebda.github.io/publication/2020-08-01-Bouzebda-Sidi)'
-date: 2020-08-01
+date: 2020-05-01
 venue: 'Revista Matemática Complutense'
 authors: 'S. Bouzebda and O. El-Dakkak'
 ---
