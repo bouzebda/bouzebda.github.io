@@ -3,8 +3,8 @@ main:
   - title: "Papers"
     url: /publications/
 
-  - title: "Preprints"
-    url: /preprints/
+  # - title: "Preprints"
+    # url: /preprints/
 
   - title: "Service"
     url: /service/
@@ -24,8 +24,8 @@ main:
   # - title: "Blog Posts"
     # url: /year-archive/
     
-  # - title: "CV"
-    # url: /cv/
+  - title: "CV"
+    url: /cv/
     
   # - title: "Guide"
     # url: /markdown/

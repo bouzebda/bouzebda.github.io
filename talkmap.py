@@ -4,8 +4,8 @@
 #
 # (c) 2016-2017 R. Stuart Geiger, released under the MIT license
 #
-# Run this from the _talks/ directory, which contains .md files of all your talks. 
-# This scrapes the location YAML field from each .md file, geolocates it with
+# Run this from the _talks/ directory, which contains 2020-10-01-Bouzebda-Elhattab-Nemouchi.md files of all your talks.
+# This scrapes the location YAML field from each 2020-10-01-Bouzebda-Elhattab-Nemouchi.md file, geolocates it with
 # geopy/Nominatim, and uses the getorg library to output data, HTML,
 # and Javascript for a standalone cluster map.
 #
@@ -15,7 +15,7 @@ import glob
 import getorg
 from geopy import Nominatim
 
-g = glob.glob("*.md")
+g = glob.glob("*2020-10-01-Bouzebda-Elhattab-Nemouchi.md")
 
 
 geocoder = Nominatim()

@@ -19,8 +19,8 @@ import os
 # 
 # - Fields that cannot be blank: `title`, `url_slug`, `date`. All else can be blank. `type` defaults to "Talk" 
 # - `date` must be formatted as YYYY-MM-DD.
-# - `url_slug` will be the descriptive part of the .md file and the permalink URL for the page about the paper. 
-#     - The .md file will be `YYYY-MM-DD-[url_slug].md` and the permalink will be `https://[yourdomain]/talks/YYYY-MM-DD-[url_slug]`
+# - `url_slug` will be the descriptive part of the 2020-10-01-Bouzebda-Elhattab-Nemouchi.md file and the permalink URL for the page about the paper.
+#     - The 2020-10-01-Bouzebda-Elhattab-Nemouchi.md file will be `YYYY-MM-DD-[url_slug]2020-10-01-Bouzebda-Elhattab-Nemouchi.md` and the permalink will be `https://[yourdomain]/talks/YYYY-MM-DD-[url_slug]`
 #     - The combination of `url_slug` and `date` must be unique, as it will be the basis for your filenames
 # 
 
@@ -66,7 +66,7 @@ loc_dict = {}
 
 for row, item in talks.iterrows():
     
-    md_filename = str(item.date) + "-" + item.url_slug + ".md"
+    md_filename = str(item.date) + "-" + item.url_slug + "2020-10-01-Bouzebda-Elhattab-Nemouchi.md"
     html_filename = str(item.date) + "-" + item.url_slug 
     year = item.date[:4]
     

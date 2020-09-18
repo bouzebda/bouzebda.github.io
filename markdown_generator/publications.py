@@ -14,7 +14,7 @@
 # 
 # - `excerpt` and `paper_url` can be blank, but the others must have values. 
 # - `pub_date` must be formatted as YYYY-MM-DD.
-# - `url_slug` will be the descriptive part of the .md file and the permalink URL for the page about the paper. The .md file will be `YYYY-MM-DD-[url_slug].md` and the permalink will be `https://[yourdomain]/publications/YYYY-MM-DD-[url_slug]`
+# - `url_slug` will be the descriptive part of the 2020-10-01-Bouzebda-Elhattab-Nemouchi.md file and the permalink URL for the page about the paper. The 2020-10-01-Bouzebda-Elhattab-Nemouchi.md file will be `YYYY-MM-DD-[url_slug]2020-10-01-Bouzebda-Elhattab-Nemouchi.md` and the permalink will be `https://[yourdomain]/publications/YYYY-MM-DD-[url_slug]`
 
 
 # ## Import pandas
@@ -64,7 +64,7 @@ def html_escape(text):
 import os
 for row, item in publications.iterrows():
     
-    md_filename = str(item.pub_date) + "-" + item.url_slug + ".md"
+    md_filename = str(item.pub_date) + "-" + item.url_slug + "2020-10-01-Bouzebda-Elhattab-Nemouchi.md"
     html_filename = str(item.pub_date) + "-" + item.url_slug
     year = item.pub_date[:4]
     
