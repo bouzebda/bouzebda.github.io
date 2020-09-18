@@ -2,11 +2,11 @@
 title: "Some Asymptotic Properties of Kernel Regression Estimators of the Mode for Stationnary and Ergodic Continuous Time Processes"
 collection: publications
 permalink: /publication/2020-08-01-Bouzebda-Sidi
+authors: 'S. Bouzebda and S. Sidi'
 excerpt: 'In the present paper, we consider  the nonparametric regression model with random design based on $$(\mathbf{X}_{\rm t},\mathbf{Y}_{\rm t})_{\rm t \geq 0}$$ an $\mathbb{R}^{d}\times\mathbb{R}^{q}$-valued strictly stationary and ergodic continuous time process, where the regression function is given by $m(\mathbf{x},\psi) = \mathbb{E}(\psi(\mathbf{ Y}) \mid \mathbf{ X} = \mathbf{ x}))$,  
 for a measurable function $\psi : \mathbb{R}^{q} \rightarrow \mathbb{R}$. [**Read more**](https://bouzebda.github.io/publication/2020-08-01-Bouzebda-Sidi)'
 date: 2020-08-01
 venue: 'Revista Matemática Complutense'
-authors: 'S. Bouzebda and S. Sidi'
 ---
 
 ### S. Bouzebda and S. Sidi

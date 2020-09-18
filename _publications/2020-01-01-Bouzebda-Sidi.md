@@ -2,11 +2,11 @@
 title: "Some Results About Kernel Estimators for Function Derivatives Based on Stationary and Ergodic Continuous Time Processes with Applications"
 collection: publications
 permalink: /publication/2020-01-01-Bouzebda-Sidi
+authors: 'S. Bouzebda et S. Didi'
 excerpt: 'The derivatives of the probability density or regression functions contain important information concerning a multivariate data set, such as modal regions. 
 Despite this importance, nonparametric estimation of higher-order derivatives of the density or regression functions have received only relatively scant attention. [**Read more**](https://bouzebda.github.io/publication/2020-01-01-Bouzebda-Sidi)'
 date: 2020-01-01
 venue: 'Communications in Statistics - Theory and Methods'
-authors: 'S. Bouzebda et S. Didi'
 ---
 ### S. Bouzebda et S. Sidi
 The derivatives of the probability density or regression functions contain important information concerning a multivariate data set, such as modal regions. 
