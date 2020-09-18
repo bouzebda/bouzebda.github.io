@@ -11,3 +11,15 @@ author_profile: true
 - Dependence Modeling: 2013-2018
 - The Open Mathematics, Statistics and Probability Journal: 2019-
 - Applied Mathematics : Deterministic and Stochastic: 2019-
+
+## Reviewer for
+Methodol. Comput. Appl. Probab.; J. Statist. Theory and Practice; 
+Statistics; Comput. Statist. Data Anal.; Bernoulli; Comm. Statist. Theory Methods; 
+Test; J. Probab. Stat.; Stochastics; Comm. Statist. Simulation Comput.; Statist. Probab. Lett.; 
+J. Appl. Stat. Revista Matem ́atica Complutense; J. Multivariate Anal; 
+J. Nonparametr. Stat.; Dependence Modeling; J. Amer. Statist. Assoc.; 
+Electron. J. Stat.; Internat. J. Approx. Reason.; Statist. Papers; 
+Canadian Journal of Physics; Colombian Journal of Statistics; 
+Journal of Computational and Applied Mathematics; 
+Sankhya A; Transactions of A. Razmadze Mathematical Institute.
+
