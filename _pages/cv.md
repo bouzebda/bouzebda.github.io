@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+{% for post in site.cv reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
 Education
 ======
 * HDR. in Mathematics Sciences (2014)
