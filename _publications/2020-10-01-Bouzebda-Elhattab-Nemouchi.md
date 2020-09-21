@@ -6,7 +6,7 @@ authors: 'S. Bouzebda, I. Elhattab and B. Nemouchi'
 excerpt: 'Stute [Ann. Probab. 19 (1991) 812-825] introduced a class of estimators called conditional $U$-statistics of 
 $$\mathbb{E}(\varphi(Y_{1},\ldots,Y_{m})\mid (X_{1},\ldots,X_{m})=\mathbf{ t}),  \mbox{ for } \mathbf{ t}\in \mathbb{R}^{m}.$$
 In  the present work, we provide a new class of estimators of conditional $$U$$-statistics. [**Read more**](https://bouzebda.github.io/publication/2020-10-01-Bouzebda-Elhattab-Nemouchi)'
-date: 2020-08-01
+date: 2020-10-01
 venue: 'Statistical Papers'
 ---
 
