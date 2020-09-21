@@ -9,23 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
-{% for post in site.cv reversed %}
-  {% include archive-single.html %}
-{% endfor %}
 
 Education
 ======
-* HDR. in Mathematics Sciences (2014)
-    * Speciality Statistics and Applied Probability
-    * title: Contribution to the nonparametric and semiparametric statistical inference : empirical process,
-copulas and bootstrap
-    * UTC 
+- **HDR. in Mathematics Sciences (2014)**
+    - Speciality Statistics and Applied Probability
+    - title: *Contribution to the nonparametric and semiparametric statistical inference : empirical process,
+copulas and bootstrap*
+    - UTC 
 
-* Ph. D. in Mathematics Sciences (2007) 
-    * Speciality Statistics and Applied Probability
-    * title: Contribution to the extreme statistics and to the independence tests
-    * Defended on May 14th, 2007 
-    * University Pierre and Marie Curie - Paris 6
+- **Ph. D. in Mathematics Sciences (2007)** 
+    - Speciality Statistics and Applied Probability
+    - title: Contribution to the extreme statistics and to the independence tests
+    - Defended on May 14th, 2007 
+    - University Pierre and Marie Curie - Paris 6
 
 
 Work experience
