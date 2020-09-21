@@ -56,14 +56,14 @@ Alumni
     - Projet VALODIM financé par BPI France
     - UTC
     
-- - **Thouria El-hadjali (2017--2020)**
+- **Thouria El-hadjali (2017--2020)**
     - co-direction with Fatiha Messaci
 
-- - **Mustapha Mohammedi (2017--2020)**
+- **Mustapha Mohammedi (2017--2020)**
     - title: *Sur la convergence Uniforme pour les Modèles  Locals Linéaire  Fonctionnelle*
     - co-direction with Ali Laksaci, University Sidi-Bel-Abbes, Algeria
   
--- **Chrysanthi Papamichail (2012--2016)**
+- **Chrysanthi Papamichail (2012--2016)**
     - title: *Estimation des Systèmes Dynamiques avec Applications en Mécanique*
     - co-direction with Nikolaos Limnios
     - UTC

@@ -31,14 +31,14 @@ Work experience
   - Deputy Director of LMAC
   - UTC
 
-- **Associate Professor (2011- 2016)**
+- **Associate Professor (2011--2016)**
   - UTC
  
-- **Postdoctoral Fellow (2009- 2010)**
+- **Postdoctoral Fellow (2009--2010)**
     - On the statistical inference based on uncertain data
     - UTC
     
-- **Postdoctoral Fellow (2009- 2010)**
+- **Postdoctoral Fellow (2009--2010)**
     - On the Travel Time Prediction based on Motorway Toll Data and Weather impact integration
     - National Institute for Transport and Safety Research and Study, Lyon Center
       
