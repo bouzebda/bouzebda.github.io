@@ -2,13 +2,13 @@
 title: "Uniform Convergence Rate of the Kernel Regression Estimator Adaptive to Intrinsic Dimension in Presence of Censored Data"
 collection: publications
 permalink: /publication/2020-07-01-Bouzebda-Hadjali
-authors: 'S. Bouzebda et T. El-hadjali'
+authors: 'S. Bouzebda and T. El-hadjali'
 excerpt: 'The focus of the present paper is on the uniform in bandwidth consistency of kernel-type estimators of the regression function $$\mathbb{E}(\Psi(\mathbf{Y})\mid \mathbf{{ X}}=\mathbf{ x})$$ derived by modern empirical process theory, 
 under weaker conditions on the kernel than previously used in the literature. Our theorems allow data-driven local bandwidths for these statistics.  [**Read more**](https://bouzebda.github.io/publication/2020-07-01-Bouzebda-Hadjali)'
 date: 2020-07-01
 venue: 'Journal of Nonparametric Statistics'
 ---
-### S. Bouzebda et T. El-hadjali
+### S. Bouzebda and T. El-hadjali
 The focus of the present paper is on the uniform in bandwidth consistency of kernel-type estimators of the regression function $$\mathbb{E}(\Psi(\mathbf{Y})\mid \mathbf{X}=\mathbf{ x})$$ derived by modern empirical process theory, 
 under weaker conditions on the kernel than previously used in the literature. Our theorems allow data-driven local bandwidths for these statistics. 
 We extend existing uniform bounds on kernel regression estimator and making it adaptive to the intrinsic dimension of the underlying distribution 
