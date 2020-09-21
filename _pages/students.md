@@ -13,58 +13,58 @@ author_profile: true
 
 PhD Students 
 ======
-- Nourelhouda Taachouche (2020- )
+- **Nourelhouda Taachouche (2020--)**
     - UTC
   
-- Amel Nezzal (2019- )
+- **Amel Nezzal (2019--)**
     - UTC
 
-- Yassine Missaoui (2019- ) 
+- **Yassine Missaoui (2019--)**
     - co-direction with Saida Amine and Issam Elhattab
     
-- Anouar Abdeldjaoued Ferfache (2018- )
-    - title: A semiparametric Maximum Likelihood Ratio Test for the (Simple - Multiple) Change-Points in Semiparametric Multivariate Survival Functions under General Censorship
+- **Anouar Abdeldjaoued Ferfache (2018--)**
+    - title: *A semiparametric Maximum Likelihood Ratio Test for the (Simple - Multiple) Change-Points in Semiparametric Multivariate Survival Functions under General Censorship*
     - UTC 
     
-- Inass Sami Soukarieh (2019-)
+- **Inass Sami Soukarieh (2019--)**
     - co-direction with Nikolaos Limnios
     - UTC
  
-- Soumaya Allaoui (2018- )
+- **Soumaya Allaoui (2018--)**
     - co-direction with Xiequan Fan, Huazhong University of Science and Technology
    
-- Han Guo (2018- )
-    - title: Développement d'un Dialogue Essai-Calcul dans un Cadre Probabiliste pour la Validation de Châssis Automobile
+- **Han Guo (2018--)**
+    - title: *Développement d'un Dialogue Essai-Calcul dans un Cadre Probabiliste pour la Validation de Châssis Automobile*
     - co-direction with Nikolaos Limnios, Frédéric Druesne, Pierre Feissel
     - UTC 
        
-- Youssouf Souddi (2017- )
-    - title: Sur l'Estimation Nonparamétrique pour les Processus Empiriques Conditionnels pour des Covariables Fonctionnelles
+- **Youssouf Souddi (2017--)**
+    - title: *Sur l'Estimation Nonparamétrique pour les Processus Empiriques Conditionnels pour des Covariables Fonctionnelles*
     - co-direction with Fethi Madani, University of Saida, Algeria
 
 Alumni
 ======
 
-- Boutheina Nemouchi (2017-2020)
-    - title: Contributions à la Théorie  des Processus Empiriques et les `U-`Processus Conditionnels
+- **Boutheina Nemouchi (2017--2020)**
+    - title: *Contributions à la Théorie  des Processus Empiriques et les $$U-$$Processus Conditionnels*
     - Financement par le Ministère de l'Enseignement Supérieur et de la Recherche Scientifique Algérien
     - UTC 
 
-- Khalid Chokri (2014-2017)
-    - title: Étude et Modélisation Mathématique de Méthanisation et Production des Engrais en vue d'optimiser leurs Rendements
-    - codirection with Nikolaos Limnios
+- **Khalid Chokri (2014--2017)**
+    - title: *Étude et Modélisation Mathématique de Méthanisation et Production des Engrais en vue d'optimiser leurs Rendements*
+    - co-direction with Nikolaos Limnios
     - Projet VALODIM financé par BPI France
     - UTC
     
-- Thouria El-hadjali (2017-2020)
+- - **Thouria El-hadjali (2017--2020)**
     - co-direction with Fatiha Messaci
 
-- Mustapha Mohammedi (2017-2020)
-    - title: Sur la convergence Uniforme pour les Modèles  Locals Linéaire  Fonctionnelle
+- - **Mustapha Mohammedi (2017--2020)**
+    - title: *Sur la convergence Uniforme pour les Modèles  Locals Linéaire  Fonctionnelle*
     - co-direction with Ali Laksaci, University Sidi-Bel-Abbes, Algeria
   
--  Chrysanthi Papamichail (2012-2016)
-    - title: Estimation des Systèmes Dynamiques avec Applications en Mécanique
+-- **Chrysanthi Papamichail (2012--2016)**
+    - title: *Estimation des Systèmes Dynamiques avec Applications en Mécanique*
     - co-direction with Nikolaos Limnios
     - UTC
 
