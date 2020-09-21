@@ -5,7 +5,7 @@ permalink: /publication/2010-07-01-Bouzebda-Keziou
 authors: 'S. Bouzebda and A. Keziou'
 excerpt: 'We introduce new estimates and tests of independence in copula models with unknown margins using $$\Phi$$-divergences and the duality technique. 
 The asymptotic laws of the estimates and the test statistics are established both when the parameter is an interior or a boundary value of the parameter space. [**Read more**](https://bouzebda.github.io/publication/2010-07-01-Bouzebda-Keziou)'
-date: 2010-06-24
+date: 2010-07-01
 venue: 'Kybernetika'
 ---
 ### S. Bouzebda and A. Keziou
