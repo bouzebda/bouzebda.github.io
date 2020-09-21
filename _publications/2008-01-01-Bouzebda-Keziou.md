@@ -3,7 +3,7 @@ title: "Some Results About Kernel Estimators for Function Derivatives Based on S
 collection: publications
 permalink: /publication/2008-01-01-Bouzebda-Keziou
 authors: 'S. Bouzebda and A. Keziou'
-excerpt: 'The purpose of this paper is to provide limit laws for semiparametric estimators of copulas. Some statistical tests of independence are introduced as a consequence of this methodology. We are primarily concerned with the case where the parameter lies on the boundary of the admissible domain. [**Read more**](https://bouzebda.github.io/publication/2020-01-01-Bouzebda-Sidi)'
+excerpt: 'The purpose of this paper is to provide limit laws for semiparametric estimators of copulas. Some statistical tests of independence are introduced as a consequence of this methodology. We are primarily concerned with the case where the parameter lies on the boundary of the admissible domain. [**Read more**](https://bouzebda.github.io/publication/2008-01-01-Bouzebda-Keziou)'
 date: 2008-01-01
 venue: 'Mathematical Methods of Statistics'
 ---

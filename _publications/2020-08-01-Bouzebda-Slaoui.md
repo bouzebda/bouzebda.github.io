@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2020-08-01-Bouzebda-Slaoui
 authors: 'S. Bouzebda and S. Slaoui'
 excerpt: 'In the present paper, we study general kernel type estimatorsfor censored data defined by the stochastic approximation algorithm. We establish a central limit theorem for the proposed estimators. 
-We characterize the strong pointwise convergence rate for the nonparametric recursive general kernel-type estimators under some mild conditions. [**Read more**](https://bouzebda.github.io/publication/2020-08-01-Bouzebda-Sloui)'
+We characterize the strong pointwise convergence rate for the nonparametric recursive general kernel-type estimators under some mild conditions. [**Read more**](https://bouzebda.github.io/publication/2020-08-01-Bouzebda-Slaoui)'
 date: 2020-08-01
 venue: 'Journal of Stochastic Analysis'
 ---
