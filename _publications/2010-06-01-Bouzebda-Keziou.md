@@ -8,6 +8,7 @@ The method is based essentially on the dual representation of $$\chi_2$$-diverge
 date: 2010-06-01
 venue: 'Communications in Statistics - Theory and Methods'
 ---
+
 ### S. Bouzebda and A. Keziou
 We introduce a new test procedure of independence in the framework of parametric copulas with unknown marginals. 
 The method is based essentially on the dual representation of $$\chi_2$$-divergence on signed finite measures. 
