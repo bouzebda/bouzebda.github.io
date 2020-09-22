@@ -1,8 +1,8 @@
 ---
-title: "Titre"
+title: "New two-sample tests based on the integrated empirical copula processes"
 collection: publications
 permalink: /publication/2012-03-01-Bouzebda-Faouzi
-authors: 'S. Bouzebda and N.E. El Faouzi'
+authors: 'S. Bouzebda'
 excerpt: 'We introduce a new test of equality between two dependence structures. 
 The new statistics are functionals of a suitably integrated two-sample empirical copula process. 
 The limiting behaviours of the proposed statistics are established under the null hypothesis. 
