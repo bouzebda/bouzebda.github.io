@@ -8,7 +8,7 @@ excerpt: 'This study reports the main findings of the Travel time Prediction bas
 implementing a route planner tool and travel time prediction system on the interurban motorway network
 managed by French motorway AREA Company. [**Read more**](https://bouzebda.github.io/publication/2010-10-01-Faouzi-Billot-Bouzebda)'
 date: 2010-10-01
-venue: 'IET Intelligent Transport Systems'
+venue: 'IET Intelligent Transport Systems A'
 ---
 ### N.E. El Faouzi, R. Billot and S. Bouzebda
 This study reports the main findings of the Travel time Prediction based on electronic Toll collection
@@ -22,5 +22,6 @@ exhibit trends in traffic. Based on the previous studies on weather effect quant
 algorithm is designed to account for the weather impact during the prediction process. The resulting tool is
 considered to be accurate enough and paves the way for developing weather responsive advanced traffic
 management and information systems.
+
 
 [<img src=" /images/PDF.png" width="25" height="25">Download paper here](https://ieeexplore.ieee.org/document/5640622)
