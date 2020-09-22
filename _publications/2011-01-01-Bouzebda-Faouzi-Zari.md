@@ -5,7 +5,7 @@ permalink: /publication/2011-01-01-Bouzebda-Faouzi-Zari
 authors: 'S. Bouzebda, N.E. El Faouzi and T. Zari'
 excerpt: 'In this article, we establish optimal rates for the strong approximation of empirical
 copula processes in $$\mathbb R^2$$ by sequences of Gaussian processes. These results are
-applied to investigate Cramér–von Mises-type statistics. [**Read more**](https://bouzebda.github.io/publication/2011-01-01-Bouzebda-Faouzi-Zari)'
+applied to investigate Cramer–von Mises-type statistics. [**Read more**](https://bouzebda.github.io/publication/2011-01-01-Bouzebda-Faouzi-Zari)'
 date: 2011-01-01
 venue: 'Communications in Statistics, Theory and Methods'
 ---
