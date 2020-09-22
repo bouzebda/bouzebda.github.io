@@ -1,5 +1,5 @@
 ---
-title: "Strong Approximation of the Smoothed Q-Q Processes"
+title: "Motorway travel time prediction based on to data and weather effect integration"
 collection: publications
 permalink: /publication/2010-10-01-Faouzi-Billot-Bouzebda
 authors: 'N-E. El Faouzi, R. Billot and S. Bouzebda'
