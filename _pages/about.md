@@ -22,7 +22,7 @@ I am working in the area of mathematical statistics. My specific field of resear
 
 - Statistics of Stochastic Processes
 - Empirical Process Theory
-- U-Empirical Process
+- $$U$$-Empirical Process
 - Bootstrap
 - Strong Invariance Principle
 - Semi/Nonparametric Statistical Theory
