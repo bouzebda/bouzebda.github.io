@@ -7,7 +7,7 @@ excerpt: 'We propose a semiparametric test of independence in copula models for 
 We give the limit laws of the estimate of the parameter and the proposed test statistic under the null hypothesis of independence. 
 [**Read more**](https://bouzebda.github.io/publication/2010-04-01-Bouzebda-Keziou)'
 date: 2010-04-01
-venue: 'Comptes Rendus de l'Académie des Sciences - Series I - Mathematics'
+venue: 'Journal 2'
 ---
 ### S. Bouzebda and A. Keziou
 We propose a semiparametric test of independence in copula models for bivariate survival censored data. 
