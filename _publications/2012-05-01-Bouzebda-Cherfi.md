@@ -8,7 +8,7 @@ The empirical performances of the proposed estimators are illustrated by simulat
 date: 2012-05-01
 venue: 'International Scholarly Research Network, ISRN Probability and Statistics'
 ---
-### S. Bouzebda and M. Cherfi.
+### S. Bouzebda and M. Cherfi
 The main purpose of the present paper is to propose a new estimator of the tail index using $$\phi$$-divergences and the duality technique. These estimators are explored with respect to robustness through the influence function approach. 
 The empirical performances of the proposed estimators are illustrated by simulation
 
