@@ -13,7 +13,36 @@ author_profile: true
 - Applied Mathematics : Deterministic and Stochastic: 2019-
 
 ## Reviewer for
-Methodol. Comput. Appl. Probab.; J. Statist. Theory and Practice; 
+- J. Amer. Statist. Assoc.
+- J. Multivariate Anal
+- Comput. Statist. Data Anal.
+- Electron. J. Stat. 
+- Stochastics
+- Methodol. Comput. Appl. Probab.
+- J. Statist. Theory and Practice 
+- Statistics
+- J. Nonparametr. Stat.
+- Bernoulli
+- Comm. Statist. Theory Methods 
+- Test
+- J. Probab. Stat.
+- Comm. Statist. Simulation Comput.
+- Statist. Probab. Lett.
+- J. Appl. Stat. 
+- Revista Matematica Complutense
+- Dependence Modeling 
+- Internat. J. Approx. Reason. 
+- Statist. Papers
+- Canadian Journal of Physics
+- Colombian Journal of Statistics
+- Journal of Computational and Applied Mathematics
+- Sankhya A 
+- Transactions of A. Razmadze Mathematical Institute
+
+
+
+
+Methodol. Comput. Appl. Probab.;J. Statist. Theory and Practice; 
 Statistics; Comput. Statist. Data Anal.; Bernoulli; Comm. Statist. Theory Methods; 
 Test; J. Probab. Stat.; Stochastics; Comm. Statist. Simulation Comput.; Statist. Probab. Lett.; 
 J. Appl. Stat. Revista Matem ́atica Complutense; J. Multivariate Anal; 
@@ -22,4 +51,3 @@ Electron. J. Stat.; Internat. J. Approx. Reason.; Statist. Papers;
 Canadian Journal of Physics; Colombian Journal of Statistics; 
 Journal of Computational and Applied Mathematics; 
 Sankhya A; Transactions of A. Razmadze Mathematical Institute.
-
