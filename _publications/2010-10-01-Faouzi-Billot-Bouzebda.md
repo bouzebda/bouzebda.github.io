@@ -2,7 +2,7 @@
 title: "Motorway travel time prediction based on to data and weather effect integration"
 collection: publications
 permalink: /publication/2010-10-01-Faouzi-Billot-Bouzebda
-authors: 'N-E. El Faouzi, R. Billot and S. Bouzebda'
+authors: 'N.E. El Faouzi, R. Billot and S. Bouzebda'
 excerpt: 'This study reports the main findings of the Travel time Prediction based on electronic Toll collection
 (ETC) data with wEather effect integration on mOtorways (TPTEO) project aiming at developing and
 implementing a route planner tool and travel time prediction system on the interurban motorway network
@@ -10,7 +10,7 @@ managed by French motorway AREA Company. [**Read more**](https://bouzebda.github
 date: 2010-10-01
 venue: 'IET Intelligent Transport Systems'
 ---
-### N-E. El Faouzi, R. Billot and S. Bouzebda
+### N.E. El Faouzi, R. Billot and S. Bouzebda
 This study reports the main findings of the Travel time Prediction based on electronic Toll collection
 (ETC) data with wEather effect integration on mOtorways (TPTEO) project aiming at developing and
 implementing a route planner tool and travel time prediction system on the interurban motorway network
