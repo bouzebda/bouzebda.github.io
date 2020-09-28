@@ -3,7 +3,7 @@ title: "Motorway travel time prediction based on to data and weather effect inte
 collection: publications
 permalink: /publication/2010-10-01-Faouzi-Billot-Bouzebda
 authors: 'N.E. El Faouzi, R. Billot and S. Bouzebda'
-excerpt: 'ghhgghg. [**Read more**](https://bouzebda.github.io/publication/2010-10-01-Faouzi-Billot-Bouzebda)'
+excerpt: 'ghghghghhghghhghgh'
 date: 2010-10-01
 venue: 'IET Intelligent Transport Systems A'
 ---
