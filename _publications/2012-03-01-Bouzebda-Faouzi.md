@@ -5,7 +5,7 @@ permalink: /publication/2012-03-01-Bouzebda-Faouzi
 authors: 'S. Bouzebda and N.E. El Faouzi'
 excerpt: 'ghhghgh. [**Read more**](https://bouzebda.github.io/publication/2012-03-01-Bouzebda-Faouzi)'
 date: 2012-03-01
-venue: 'Statistics'
+venue: 'JJJJJ'
 ---
 ### S. Bouzebda and N.E. El Faouzi
 We introduce a new test of equality between two dependence structures. 
