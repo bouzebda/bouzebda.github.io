@@ -14,4 +14,4 @@ In this article, we establish optimal rates for the strong approximation of empi
 copula processes in $$\mathbb R^2$$ by sequences of Gaussian processes. These results are
 applied to investigate Cramer–von Mises-type statistics.
 
-[<img src=" /images/PDF.png" width="25" height="25">Download paper here](https://www.tandfonline.com/doi/abs/10.1080/03610921003615856)
+[<img src=" /images/PDF.png" width="25" height="25">Download                                                                                                                                                                                          paper here](https://www.tandfonline.com/doi/abs/10.1080/03610921003615856)
